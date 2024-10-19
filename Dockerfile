@@ -1,4 +1,4 @@
-FROM centos:7
+FROM rockylinux:8
 
 MAINTAINER Sebastian Svensson <ss@tinbox.nu>
 
